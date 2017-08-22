@@ -8,6 +8,7 @@ public class Demo1 {
         System.out.println("");
     }
     public static String  getCaoYuan(String sring){
+        System.out.println("assasa");
         return "曹源";
     }
 }
