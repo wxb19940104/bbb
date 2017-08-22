@@ -6,4 +6,7 @@ public class Demo1 {
     public static void main(String[] args) {
         System.out.println("");
     }
+    public static String  getCaoYuan(String sring){
+        return "曹源";
+    }
 }
